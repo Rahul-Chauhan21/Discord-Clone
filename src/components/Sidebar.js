@@ -31,6 +31,20 @@ function Sidebar() {
           <SidebarChannel />
           <SidebarChannel />
           <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
         </div>
       </div>
 
