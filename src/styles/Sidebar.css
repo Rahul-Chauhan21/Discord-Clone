@@ -78,6 +78,9 @@
   padding: 5px;
 }
 .sidebar__channelsList {
-  height: calc(100vh - 300px);
+  height: calc(100vh - 330px);
   overflow-y: auto;
+}
+.sidebar__profileAvi:hover {
+  cursor: pointer;
 }
